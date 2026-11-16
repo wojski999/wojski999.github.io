@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"ekran","t":"d","k":"wycena","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"wariant","t":"d","k":"pokaz","s":["integracje","plansze","realizacje","warianty"]},"h":196704,"c":"$Q2"}]]
-0:{"b":"h-lyo-jmP4xtM8QH929Ig","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"0ohsRasPxFqtRaYr88ZXe","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
