@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/2z7zppnq2gnqh.css","style"]
+:HL["/_next/static/chunks/2sfq1fk2woy81.css","style"]
+:HL["/_next/static/media/90133963c3edd3db.p.3tdhxzq-m0h-s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/edcdf2c06a4c91b1.p.0qz8zb4d-16t8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/18zmp3et0whf9.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"ekran","t":"d","k":"wycena","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"wariant","t":"d","k":"pokaz","s":["integracje","plansze","realizacje","warianty"]},"h":196704,"c":"$Q2"}]]
+0:{"b":"h-lyo-jmP4xtM8QH929Ig","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
