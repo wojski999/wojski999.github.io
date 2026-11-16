@@ -4,4 +4,4 @@
 :HL["/_next/static/media/edcdf2c06a4c91b1.p.0qz8zb4d-16t8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"wariant","t":"d","k":"pokaz","s":["integracje","plansze","realizacje","warianty"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"0ohsRasPxFqtRaYr88ZXe","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"nEfayLM1zVT9CszxAOjGO","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
