@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/1be7lj6juvwms.css","style"]
+:HL["/_next/static/chunks/18s2rz1-n4umk.css","style"]
 :HL["/_next/static/chunks/2sfq1fk2woy81.css","style"]
 :HL["/_next/static/media/90133963c3edd3db.p.3tdhxzq-m0h-s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/edcdf2c06a4c91b1.p.0qz8zb4d-16t8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"ekran","t":"d","k":"raport","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"wariant","t":"d","k":"pokaz","s":["integracje","plansze","realizacje","warianty"]},"h":196704,"c":"$Q2"}]]
-0:{"b":"AGs3CFtiB7GAyRZCyTBQs","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"wcv05fR2F-FBFDWLN6THH","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
