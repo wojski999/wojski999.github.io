@@ -1,10 +1,10 @@
-:HL["/_next/static/chunks/2z7zppnq2gnqh.css","style"]
+:HL["/_next/static/chunks/1be7lj6juvwms.css","style"]
 :HL["/_next/static/media/90133963c3edd3db.p.3tdhxzq-m0h-s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/edcdf2c06a4c91b1.p.0qz8zb4d-16t8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/2sfq1fk2woy81.css","style"]
-:HL["/_next/static/chunks/1o5jiksebok5c.css","style"]
+:HL["/_next/static/chunks/36vparcbevng3.css","style"]
 :HL["/realizacje/leverage-labs.svg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"system-danych-floty","s":["firma-i-dwie-floty","jak-budujemy"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"realizacje","h":131168,"c":"$Q2"}]]
-0:{"b":"nEfayLM1zVT9CszxAOjGO","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"AGs3CFtiB7GAyRZCyTBQs","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
